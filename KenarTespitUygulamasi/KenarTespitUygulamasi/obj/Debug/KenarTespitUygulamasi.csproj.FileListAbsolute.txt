@@ -1,0 +1,9 @@
+C:\Programlama\Github\KenarTespitUygulamasi\KenarTespitUygulamasi\KenarTespitUygulamasi\bin\Debug\KenarTespitUygulamasi.exe.config
+C:\Programlama\Github\KenarTespitUygulamasi\KenarTespitUygulamasi\KenarTespitUygulamasi\bin\Debug\KenarTespitUygulamasi.exe
+C:\Programlama\Github\KenarTespitUygulamasi\KenarTespitUygulamasi\KenarTespitUygulamasi\bin\Debug\KenarTespitUygulamasi.pdb
+C:\Programlama\Github\KenarTespitUygulamasi\KenarTespitUygulamasi\KenarTespitUygulamasi\obj\Debug\KenarTespitUygulamasi.csprojAssemblyReference.cache
+C:\Programlama\Github\KenarTespitUygulamasi\KenarTespitUygulamasi\KenarTespitUygulamasi\obj\Debug\KenarTespit.KenarTespit.resources
+C:\Programlama\Github\KenarTespitUygulamasi\KenarTespitUygulamasi\KenarTespitUygulamasi\obj\Debug\KenarTespitUygulamasi.Properties.Resources.resources
+C:\Programlama\Github\KenarTespitUygulamasi\KenarTespitUygulamasi\KenarTespitUygulamasi\obj\Debug\KenarTespitUygulamasi.csproj.GenerateResource.cache
+C:\Programlama\Github\KenarTespitUygulamasi\KenarTespitUygulamasi\KenarTespitUygulamasi\obj\Debug\KenarTespitUygulamasi.exe
+C:\Programlama\Github\KenarTespitUygulamasi\KenarTespitUygulamasi\KenarTespitUygulamasi\obj\Debug\KenarTespitUygulamasi.pdb
